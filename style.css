@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-page1 {
+    height: 60px;
+}
+
+#navItem1,
+#navItem2,
+#navItem3,
+#navItem4 {
+    color: #1a2137;
+}
+
+.bottom-section-page1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.header-page1 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.button-page1 {
+    background-color: #323f4b;
+    color: white;
+    border-width: 0px;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.image-page2 {
+    height: 80px;
+}
+
+.heading-page2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.para-page2 {
+    color: #7b8794;
+}
+
+.image-page3 {
+    height: 250px;
+    width: 200px
+}
+
+.heading-page3 {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.header-page4 {
+    color: #1f2933;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.description-page4 {
+    color: #7b8794;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.button-page4 {
+    color: white;
+    background-color: #1a2137;
+    padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+    height: 35px;
+    width: 120px;
+}
+
+.page1-page5 {
+    background-color: #222b36;
+    background-size: cover;
+}
+
+.header-page5 {
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.image-page5 {
+    height: 200px;
+    width: 250px;
+}
+
+.title-page6 {
+    color: #1f2933;
+    font-weight: 700;
+}
+
+.link-page6 {
+    color: #1754a1;
+    font-weight: bold;
+}
+
+.para-page6 {
+    color: #959ead;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.para1-page6 {
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.button-page6 {
+    color: white;
+    background-color: #1754a1;
+    padding: 5px 20px 5px 20px;
+    border-width: 0px;
+}
+
+.image-page7 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 70vh;
+    padding: 15px;
+}
+
+.image-1-page7 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 70vh;
+    padding: 15px;
+}
+
+.heading-page7 {
+    color: white;
+}
+
+.para-page7 {
+    color: white;
+}
+
+.button-page7 {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+    width: 110px;
+}
+
+.button-blue-page7 {
+    color: white;
+    background-color: #1754a1;
+    border-width: 0px;
+    padding: 5px 10px 5px 10px;
+    width: 110px;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 60px;
+}
+
+.page-full {
+    background-color: #19232d;
+    background-size: cover;
+    text-align: center;
+}
+
+.icon {
+    color: #5a7184;
+    align-items: center;
+    font-size: 28px;
+    /* height: 30px; */
+}
+
+.box {
+    height: 55px;
+    width: 55px;
+    background-color: #202b36;
+    padding: 8px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.dimension {
+    margin-left: -40px;
+}
+
+.header {
+    color: #5a7184;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.para {
+    color: #5a7184;
+}
+
+.line {
+    background-color: #5a7184;
+}
